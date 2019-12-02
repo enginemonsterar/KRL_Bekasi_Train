@@ -1,0 +1,22 @@
+{
+    "Items": [
+        {
+            "Id": "1",
+            "Name": "mannggara",
+            "PositionTime_0": 3661.0,
+            "PositionTime_1": 3661.0
+        },
+        {
+            "Id": "2",
+            "Name": "bekasi",
+            "PositionTime_0": 43932.0,
+            "PositionTime_1": 43932.0
+        },
+        {
+            "Id": "3",
+            "Name": "kranji",
+            "PositionTime_0": 3661.0,
+            "PositionTime_1": 3661.0
+        }
+    ]
+}
