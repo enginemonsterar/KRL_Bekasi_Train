@@ -51,6 +51,16 @@ namespace MonsterAR.Network{
                 
             });
 
+            On("TravelPass_", (E) => {                                
+                // Debug.Log("Travel Pass ID: " + E.data["Id"]);   
+                TravelPass travelPass = new TravelPass(E.data["Id"].ToString().Replace("\"", string.Empty).Trim()
+                ,bool.Parse(E.data["Active"].ToString().Replace("\"", string.Empty).Trim()
+                ),E.data["MachinistId"].ToString().Replace("\"", string.Empty).Trim()
+                ,E.data["TrainRouteId"].ToString().Replace("\"", string.Empty).Trim()
+                ,E.data["LogHistoryId"].ToString().Replace("\"", string.Empty).Trim());
+                TravelPassManager.Instance.SetupTravelPass(travelPass);
+            });
+
             // On("checkAdminLoged", (E) => {
             //     string value = E.data["adminLoged"].ToString();
             //     if(value == "true"){

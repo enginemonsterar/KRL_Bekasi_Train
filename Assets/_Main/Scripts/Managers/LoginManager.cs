@@ -70,7 +70,7 @@ public class LoginManager : Singleton<LoginManager>
         yield return new WaitForEndOfFrame();
         PlayerSendData.Instance.Login(username,password);
         
-        SceneController.Instance.GoToScene("Main");
+        SceneController.Instance.GoToScene("TravelPass");
     }
 
     

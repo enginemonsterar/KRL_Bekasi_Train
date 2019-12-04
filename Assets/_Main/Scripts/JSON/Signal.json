@@ -1,10 +1,154 @@
 {
     "Items": [
         {
-            "Id": "gaga",
-            "Name": "gaga",
-            "Description": "agaga",
-            "SpriteName": "agag"
+            "Id": "1",
+            "Name": "semboyan_2H",
+            "Description": "semboyan_2H",
+            "SpriteName": "semboyan_2H"
+        },
+        {
+            "Id": "2",
+            "Name": "semboyan_8J1",
+            "Description": "semboyan_8J1",
+            "SpriteName": "semboyan_8J1"
+        },
+        {
+            "Id": "3",
+            "Name": "semboyan_8J2",
+            "Description": "semboyan_8J2",
+            "SpriteName": "semboyan_8J2"
+        },
+        {
+            "Id": "4",
+            "Name": "semboyan_8k",
+            "Description": "semboyan_8k",
+            "SpriteName": "semboyan_8k"
+        },
+        {
+            "Id": "5",
+            "Name": "semboyan_8L",
+            "Description": "semboyan_8L",
+            "SpriteName": "semboyan_8L"
+        },
+        {
+            "Id": "6",
+            "Name": "semboyan_9C1",
+            "Description": "semboyan_9C1",
+            "SpriteName": "semboyan_9C1"
+        },
+        {
+            "Id": "7",
+            "Name": "semboyan_9C2",
+            "Description": "semboyan_9C2",
+            "SpriteName": "semboyan_9C2"
+        },
+        {
+            "Id": "8",
+            "Name": "semboyan_9E1",
+            "Description": "semboyan_9E1",
+            "SpriteName": "semboyan_9E1"
+        },
+        {
+            "Id": "9",
+            "Name": "semboyan_10J A",
+            "Description": "semboyan_10J A",
+            "SpriteName": "semboyan_10J A"
+        },
+        {
+            "Id": "10",
+            "Name": "semboyan_10J C",
+            "Description": "semboyan_10J C",
+            "SpriteName": "semboyan_10J C"
+        },
+        {
+            "Id": "11",
+            "Name": "semboyan_10J D",
+            "Description": "semboyan_10J D",
+            "SpriteName": "semboyan_10J D"
+        },
+        {
+            "Id": "12",
+            "Name": "semboyan_10j F",
+            "Description": "semboyan_10j F",
+            "SpriteName": "semboyan_10j F"
+        },
+        {
+            "Id": "13",
+            "Name": "semboyan_10J G",
+            "Description": "semboyan_10J G",
+            "SpriteName": "semboyan_10J G"
+        },
+        {
+            "Id": "14",
+            "Name": "semboyan_10J H",
+            "Description": "semboyan_10J H",
+            "SpriteName": "semboyan_10J H"
+        },
+        {
+            "Id": "15",
+            "Name": "semboyan_10jE",
+            "Description": "semboyan_10jE",
+            "SpriteName": "semboyan_10jE"
+        },
+        {
+            "Id": "16",
+            "Name": "semboyan_plus",
+            "Description": "semboyan_plus",
+            "SpriteName": "semboyan_plus"
+        },
+        {
+            "Id": "17",
+            "Name": "semboyan_06",
+            "Description": "semboyan_06",
+            "SpriteName": "semboyan_06"
+        },
+        {
+            "Id": "18",
+            "Name": "semboyan_8N",
+            "Description": "semboyan_8N",
+            "SpriteName": "semboyan_8N"
+        },
+        {
+            "Id": "19",
+            "Name": "semboyan_6A D",
+            "Description": "semboyan_6A D",
+            "SpriteName": "semboyan_6A D"
+        },
+        {
+            "Id": "20",
+            "Name": "semboyan_9C3",
+            "Description": "semboyan_9C3",
+            "SpriteName": "semboyan_9C3"
+        },
+        {
+            "Id": "21",
+            "Name": "semboyan_21",
+            "Description": "semboyan_21",
+            "SpriteName": "semboyan_21"
+        },
+        {
+            "Id": "22",
+            "Name": "semboyan_LampuHijau",
+            "Description": "semboyan_LampuHijau",
+            "SpriteName": "semboyan_LampuHijau"
+        },
+        {
+            "Id": "23",
+            "Name": "semboyan_LampuKuning",
+            "Description": "semboyan_LampuKuning",
+            "SpriteName": "semboyan_LampuKuning"
+        },
+        {
+            "Id": "24",
+            "Name": "semboyan_LampuMerah",
+            "Description": "semboyan_LampuMerah",
+            "SpriteName": "semboyan_LampuMerah"
+        },
+        {
+            "Id": "25",
+            "Name": "semboyan_LampuMati",
+            "Description": "semboyan_LampuMati",
+            "SpriteName": "semboyan_LampuMati"
         }
     ]
 }

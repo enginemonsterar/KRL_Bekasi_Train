@@ -131,7 +131,7 @@ GameObject:
   - component: {fileID: 55762185}
   - component: {fileID: 55762186}
   m_Layer: 0
-  m_Name: SignManager
+  m_Name: SignalManager
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -163,14 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d439435d24a366d48b97281ae12051fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  signImages:
-  - {fileID: 1112085638}
-  traffic:
-  - {fileID: 21300000, guid: 5ac09e3247474bf43a4473f7cc418557, type: 3}
-  - {fileID: 21300000, guid: c908bf2482c631746a04286bccab9d9b, type: 3}
-  - {fileID: 21300000, guid: 2ddb280a47de3ed44b8dca7b42e3f449, type: 3}
-  - {fileID: 21300000, guid: f67c40ad3f148ba499e5ed764458862b, type: 3}
-  - {fileID: 21300000, guid: 2d0c67945bd0bcd46901ffe8bf6c1d18, type: 3}
+  signImage: {fileID: 1112085638}
 --- !u!1 &257741128
 GameObject:
   m_ObjectHideFlags: 0
@@ -586,11 +579,11 @@ RectTransform:
   m_Father: {fileID: 1844934393}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 1}
-  m_AnchorMax: {x: 0, y: 1}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 206.3, y: 202.4}
-  m_Pivot: {x: 0, y: 1}
+  m_SizeDelta: {x: 206.30005, y: 202.4}
+  m_Pivot: {x: 1, y: 1}
 --- !u!1 &1071447081
 GameObject:
   m_ObjectHideFlags: 0
@@ -669,7 +662,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 120.1, y: 180.1}
+  m_SizeDelta: {x: 160, y: 160}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1112085638
 MonoBehaviour:
@@ -689,7 +682,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 2ddb280a47de3ed44b8dca7b42e3f449, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 2fea53af33510ac4895e0cde9cfad1e6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

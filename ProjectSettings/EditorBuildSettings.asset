@@ -8,13 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/_Main/Scenes/PlayerLoginPage.unity
     guid: a4bcda6b1f9f05d48b8ab1f26ca16b4f
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/_Main/Scenes/Main.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/_Main/Scenes/TravelPass.unity
+    guid: af887849d2003d842b4e9584e4696dd1
   m_configObjects: {}

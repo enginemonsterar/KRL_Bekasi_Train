@@ -16,5 +16,7 @@ public class Signal
         this.Description = description;        
         this.SpriteName = spriteName;
     }
+
+    public Signal(){}
     
 }

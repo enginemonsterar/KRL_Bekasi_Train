@@ -12,5 +12,9 @@ public class Machinist
         this.Id = id;
         this.Name = name;
     }
+
+    public Machinist(){
+        
+    }
     
 }

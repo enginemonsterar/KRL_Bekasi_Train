@@ -8,21 +8,19 @@ public class TrainRoute
 {
     public string Id;
     public string Name;
-    public Machinist Machinist;
-    public Station[] Stations;
-    public RouteSignal RouteSignal;
-    public string VideoClipName;
+    public string[] StationIds;
+    public string RouteSignalId;
+    // public string VideoClipName;
 
-    public TrainRoute(string id, string name, Machinist machinist, Station[] stations, RouteSignal routeSignal, string videoClipName){
+    public TrainRoute(string id, string name, string[] stationIds, string routeSignalId){
         this.Id = id;
-        this.Name = name;
-        this.Machinist = machinist;
-        this.Stations = stations;
-        this.RouteSignal = routeSignal;
-        this.VideoClipName = videoClipName;
+        this.Name = name;        
+        this.StationIds = stationIds;
+        this.RouteSignalId = routeSignalId;
+        // this.VideoClipName = videoClipName;
     }
 
-    
-
-
+    public TrainRoute(){
+        
+    }
 }

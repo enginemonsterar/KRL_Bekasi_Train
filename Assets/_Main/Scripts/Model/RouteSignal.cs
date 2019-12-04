@@ -5,8 +5,19 @@ using System;
 [Serializable]
 public class RouteSignal 
 {
-    private int id;
-    
-    private Signal[] signals;
+    public string Id;    
+    public string[] SignalIds;
+    public int[] ActiveTimeInSeconds;
+    public int[] DeactiveTimeInSeconds;
+
+    public RouteSignal (string id, string[] signalIds, int[] activeTimeInSeconds, int[] deactiveTimeInSeconds){
+        this.Id = id;
+        this.SignalIds = signalIds;
+        this.ActiveTimeInSeconds = activeTimeInSeconds;
+        this.DeactiveTimeInSeconds = deactiveTimeInSeconds;
+    }
+    public RouteSignal (){
+
+    }
     
 }

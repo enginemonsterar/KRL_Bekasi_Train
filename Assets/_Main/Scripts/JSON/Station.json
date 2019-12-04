@@ -2,21 +2,51 @@
     "Items": [
         {
             "Id": "1",
-            "Name": "mannggara",
-            "PositionTime_0": 3661.0,
-            "PositionTime_1": 3661.0
+            "Name": "Manggarai",
+            "PositionTime_0": 0,
+            "PositionTime_1": 0
         },
         {
             "Id": "2",
-            "Name": "bekasi",
-            "PositionTime_0": 43932.0,
-            "PositionTime_1": 43932.0
-        },
+            "Name": "Jatinegara",
+            "PositionTime_0": 840,
+            "PositionTime_1": 0
+        },        
         {
             "Id": "3",
-            "Name": "kranji",
-            "PositionTime_0": 3661.0,
-            "PositionTime_1": 3661.0
+            "Name": "Klender",
+            "PositionTime_0": 1620,
+            "PositionTime_1": 0
+        },
+        {
+            "Id": "4",
+            "Name": "Buaran",
+            "PositionTime_0": 2280,
+            "PositionTime_1": 0
+        },
+        {
+            "Id": "5",
+            "Name": "Klender Baru",
+            "PositionTime_0": 2868,
+            "PositionTime_1": 0
+        },
+        {
+            "Id": "6",
+            "Name": "Cakung",
+            "PositionTime_0": 3308,
+            "PositionTime_1": 0
+        },
+        {
+            "Id": "7",
+            "Name": "Kranji",
+            "PositionTime_0": 4265,
+            "PositionTime_1": 0
+        },
+        {
+            "Id": "8",
+            "Name": "Bekasi",
+            "PositionTime_0": 5280.0,
+            "PositionTime_1": 0
         }
     ]
 }
