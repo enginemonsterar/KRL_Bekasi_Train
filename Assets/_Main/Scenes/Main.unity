@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d439435d24a366d48b97281ae12051fe, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  signImage: {fileID: 1112085638}
+  signalImage: {fileID: 1112085638}
 --- !u!1 &257741128
 GameObject:
   m_ObjectHideFlags: 0

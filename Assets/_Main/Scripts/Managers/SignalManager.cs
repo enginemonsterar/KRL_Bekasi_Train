@@ -6,9 +6,8 @@ using System.IO;
 
 public class SignalManager : MonoBehaviour
 {
-    [SerializeField] private Image signImage;
+    [SerializeField] private Image signalImage;
     
-
     private List<RouteSignal> routeSignals;
     private List<Signal> signals = new List<Signal>();
     private string filePathRouteSignal;
@@ -30,11 +29,11 @@ public class SignalManager : MonoBehaviour
     void Update() {
         
         if(VideoSpeedManager.Instance.GetVideoTime() >= routeSignals[0].ActiveTimeInSeconds[signalOrder]){
-            signImage.enabled = true;
-            signalActive = true;
-            Debug.Log("asdasda " + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName);
+            signalImage.enabled = true;
+            signalActive = true;            
             string path = "Sprites/" + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName;
-            signImage.sprite = Resources.Load<Sprite>(path);            
+            signalImage.sprite = Resources.Load<Sprite>(path);            
+            DynamicScale();
         }
 
         if(VideoSpeedManager.Instance.GetVideoTime() >= routeSignals[0].DeactiveTimeInSeconds[signalOrder]){
@@ -42,9 +41,19 @@ public class SignalManager : MonoBehaviour
                 signalOrder++;
             
             signalActive = false;
-            signImage.enabled = false;
+            signalImage.enabled = false;
         }
+
         
+    }
+
+    void DynamicScale(){
+        int distance = routeSignals[0].DeactiveTimeInSeconds[signalOrder] - routeSignals[0].ActiveTimeInSeconds[signalOrder];
+        float nowTime = (float) VideoSpeedManager.Instance.GetVideoTime() - routeSignals[0].ActiveTimeInSeconds[signalOrder];
+        float scale = nowTime / distance;
+
+        signalImage.transform.localScale = new Vector2(scale,scale);
+
     }
 
     Signal FindSignal(string id){
