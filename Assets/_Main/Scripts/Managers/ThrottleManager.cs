@@ -23,6 +23,24 @@ public class ThrottleManager : Singleton<ThrottleManager>
         
     }
 
+    public void SetThrottle(int nodeLevel){
+        this.nodeLevel = nodeLevel;
+
+        if(nodeLevel > 0){
+
+            //For Train Speed Manager
+            TrainSpeedManager.Instance.AddAcceleration(0.5f);
+        }else{
+            //For Train Speed Manager
+            TrainSpeedManager.Instance.ReduceAcceleration(0.5f);
+        }
+
+
+        //Send Node Mode Over Network
+        PlayerSendData.Instance.SendNodeLevel(nodeLevel);
+        ActionLogManager.Instance.WriteActionLog("Ganti Node", IntNodeToStringNode());
+    }
+
     public void PushThrottle(){
         if(GetClutch() != clutchMode.netral){
 

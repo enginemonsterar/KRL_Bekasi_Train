@@ -34,7 +34,8 @@ public class SignalManager : MonoBehaviour
             signalActive = true;
             Debug.Log("asdasda " + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName);
             string path = "Sprites/" + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName;
-            signImage.sprite = Resources.Load<Sprite>(path);            
+            signImage.sprite = Resources.Load<Sprite>(path);   
+            ASD();         
         }
 
         if(VideoSpeedManager.Instance.GetVideoTime() >= routeSignals[0].DeactiveTimeInSeconds[signalOrder]){
@@ -45,6 +46,15 @@ public class SignalManager : MonoBehaviour
             signImage.enabled = false;
         }
         
+    }
+
+    void ASD(){
+        double timeT = VideoSpeedManager.Instance.GetVideoTime();
+        float distance = (float) routeSignals[0].DeactiveTimeInSeconds[signalOrder] - routeSignals[0].ActiveTimeInSeconds[signalOrder];
+         
+        float st = (float) timeT - routeSignals[0].ActiveTimeInSeconds[signalOrder];
+        float scale = st / distance;
+        signImage.transform.localScale = new Vector2(scale,scale);
     }
 
     Signal FindSignal(string id){

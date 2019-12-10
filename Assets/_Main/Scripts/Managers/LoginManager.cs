@@ -21,7 +21,6 @@ public class LoginManager : Singleton<LoginManager>
     private List<Player> players;
     
     private string filePathPlayer;
-
     
     void Awake(){
         // Debug.Log(Application.dataPath);        
@@ -70,7 +69,7 @@ public class LoginManager : Singleton<LoginManager>
         yield return new WaitForEndOfFrame();
         PlayerSendData.Instance.Login(username,password);
         
-        SceneController.Instance.GoToScene("TravelPass");
+        SceneController.Instance.GoToScene("Main");
     }
 
     

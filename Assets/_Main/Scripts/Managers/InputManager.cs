@@ -1,8 +1,9 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using MonsterAR.Utility;
 
-public class InputManager : MonoBehaviour
+public class InputManager : Singleton<InputManager>
 {
     
 
@@ -48,6 +49,47 @@ public class InputManager : MonoBehaviour
         
     }
 
+    public void SetMessage(string message){
+        Debug.Log(message);
+        switch (message)
+        {
+            case "Deadman: OFF": 
+                Debug.Log("Deadman UnPressed");
+                UnPressDeadmanPedal();
+                break;
+            case "Deadman: ON": 
+                Debug.Log("Deadman Pressed");
+                PressDeadmanPedal();
+                break;
+            case "Control: F P1": 
+                ThrottleManager.Instance.SetThrottle(1);
+                break;
+            case "Control: F P2": 
+                ThrottleManager.Instance.SetThrottle(2);
+                break;
+            case "Control: F P3": 
+                ThrottleManager.Instance.SetThrottle(3);
+                break;
+            case "Control: F P4": 
+                ThrottleManager.Instance.SetThrottle(4);
+                break;
+            case "Control: F B1": 
+                ThrottleManager.Instance.SetThrottle(-1);
+                break;
+            case "Control: F B2": 
+                ThrottleManager.Instance.SetThrottle(-2);
+                break;
+            case "Control: F B3": 
+                ThrottleManager.Instance.SetThrottle(-3);
+                break;
+            case "Control: F B4": 
+                ThrottleManager.Instance.SetThrottle(-4);
+                break;
+            default:
+                break;
+        }
+    }
+
     void OpenDoor(){
         Debug.Log("OpenDoor");
         DoorSystem.Instance.SetOpened(true);
@@ -65,13 +107,16 @@ public class InputManager : MonoBehaviour
 
     void PressDeadmanPedal(){
         DeadmanSystem.Instance.SetPressed(true);
+        
     }
 
     void UnPressDeadmanPedal(){
         DeadmanSystem.Instance.SetPressed(false);
+        
     }
 
     void PushThrottle(){
+        
         ThrottleManager.Instance.PushThrottle();
     }
 
