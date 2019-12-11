@@ -2001,8 +2001,78 @@
             "Value": "B3"
         },
         {
+<<<<<<< HEAD
+=======
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
             "Name": "Deadman System",
             "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
         },
         {
             "Name": "Deadman System",
@@ -2053,8 +2123,28 @@
             "Value": "B2"
         },
         {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
         },
         {
             "Name": "Ganti Node",
@@ -2078,87 +2168,75 @@
         },
         {
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Ganti Node",
-            "Value": "P3"
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
         },
         {
             "Name": "Ganti Node",
@@ -2167,6 +2245,438 @@
         {
             "Name": "Ganti Node",
             "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Cheat"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
         },
         {
             "Name": "Ganti Node",
@@ -2193,26 +2703,13 @@
             "Value": "EM"
         },
         {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
+>>>>>>> master
             "Name": "Deadman System",
             "Value": "Man Is Dead"
         },
         {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
+<<<<<<< HEAD
+=======
             "Name": "Ganti Node",
             "Value": "B6"
         },
@@ -2250,6 +2747,399 @@
         },
         {
             "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+>>>>>>> master
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+=======
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+>>>>>>> master
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+=======
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+=======
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+=======
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+>>>>>>> master
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+<<<<<<< HEAD
+=======
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+>>>>>>> master
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+<<<<<<< HEAD
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+=======
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+>>>>>>> master
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+<<<<<<< HEAD
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+=======
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "EM"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+>>>>>>> master
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Deadman System",
+<<<<<<< HEAD
+            "Value": "Deadman Pedal Pressed"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Ganti Node",
             "Value": "P3"
         },
         {
@@ -2267,12 +3157,44 @@
         {
             "Name": "Ganti Node",
             "Value": "B1"
+=======
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "EM"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Ganti Node",
             "Value": "B2"
         },
         {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+<<<<<<< HEAD
             "Name": "Ganti Node",
             "Value": "B3"
         },
@@ -2291,10 +3213,39 @@
         {
             "Name": "Ganti Node",
             "Value": "B3"
+=======
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Ganti Node",
             "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+<<<<<<< HEAD
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
         },
         {
             "Name": "Ganti Node",
@@ -2307,6 +3258,9 @@
         {
             "Name": "Ganti Node",
             "Value": "B3"
+=======
+            "Name": "Ganti Node",
+            "Value": "B1"
         },
         {
             "Name": "Ganti Node",
@@ -2314,6 +3268,189 @@
         },
         {
             "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
+=======
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+<<<<<<< HEAD
+            "Name": "Ganti Node",
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "EM"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+=======
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
+            "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B6"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B3"
+=======
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
             "Value": "B1"
         },
         {
@@ -2355,6 +3492,8 @@
         {
             "Name": "Ganti Node",
             "Value": "B1"
+=======
+            "Value": "B2"
         },
         {
             "Name": "Ganti Node",
@@ -2362,6 +3501,48 @@
         },
         {
             "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
             "Value": "B3"
         },
         {
@@ -2371,6 +3552,8 @@
         {
             "Name": "Ganti Node",
             "Value": "B3"
+=======
+            "Value": "B2"
         },
         {
             "Name": "Ganti Node",
@@ -2378,11 +3561,28 @@
         },
         {
             "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+<<<<<<< HEAD
             "Value": "B1"
         },
         {
             "Name": "Ganti Node",
             "Value": "N"
+=======
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+>>>>>>> master
         },
         {
             "Name": "Ganti Node",
@@ -2390,6 +3590,7 @@
         },
         {
             "Name": "Ganti Node",
+<<<<<<< HEAD
             "Value": "P2"
         },
         {
@@ -2399,6 +3600,33 @@
         {
             "Name": "Ganti Node",
             "Value": "P4"
+=======
+            "Value": "B2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B2"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "B1"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+>>>>>>> master
         }
     ]
 }

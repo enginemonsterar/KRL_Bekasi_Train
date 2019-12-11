@@ -21,7 +21,6 @@ public class LoginManager : Singleton<LoginManager>
     private List<Player> players;
     
     private string filePathPlayer;
-
     
     void Awake(){
         // Debug.Log(Application.dataPath);        
