@@ -2152,7 +2152,7 @@ PrefabInstance:
     - target: {fileID: 2851071992679886829, guid: 46d15a2b66f59ea4999297ebba4105fa,
         type: 3}
       propertyPath: url
-      value: ws://localhost:52300/socket.io/?EIO=4&transport=websocket
+      value: ws://172.20.2.228:52300/socket.io/?EIO=4&transport=websocket
       objectReference: {fileID: 0}
     - target: {fileID: 2851071993637748272, guid: 46d15a2b66f59ea4999297ebba4105fa,
         type: 3}

@@ -1,5 +1,11 @@
 {
     "Items": [
-        
+        {
+            "Id": "1",
+            "Active": false,
+            "MachinistId": "123",
+            "TrainRouteId": "1",
+            "LogHistoryId": "0"
+        }
     ]
 }

@@ -23,6 +23,8 @@ public class TravelPassManager : Singleton<TravelPassManager>
     public Text startStationText;
     public Text finishStationText;
 
+    
+
     void Awake(){
         filePathTravelPass = Application.dataPath  + "/_Main" + "/Scripts" + "/JSON" + "/TravelPass.json";
         filePathMachinist = Application.dataPath  + "/_Main" + "/Scripts" + "/JSON" + "/Machinist.json";
@@ -35,8 +37,22 @@ public class TravelPassManager : Singleton<TravelPassManager>
         LoadDataMachinist();
         LoadDataTrainRoute();
         LoadDataStation();
-        // Debug.Log("Travel Pass Machinist Id: " + travelPass.MachinistId);
 
+        //Reset TravelPass
+        LoadDataTravelPass();
+        for (int i = 0; i < travelPasses.Count; i++)
+        {            
+            travelPasses.RemoveAt(i);
+        }
+ 
+        this.travelPasses.Add(travelPass);
+        
+        //Write TravelPass list to json object
+        string jsonData = JsonHelper.ToJson(this.travelPasses.ToArray(), true);
+        File.WriteAllText(filePathTravelPass, jsonData); 
+        LoadDataTravelPass();
+        Debug.Log("Travel Pass LogHistoryId: " + travelPasses[0].LogHistoryId);
+       
         travelPassForm.SetActive(true);
         idIF.text = travelPass.Id;
 
@@ -64,6 +80,8 @@ public class TravelPassManager : Singleton<TravelPassManager>
         trainRouteIF.text = trainRoute.Name ;
         
     }
+
+   
 
     public void LoadDataTravelPass(){
         //Read All TravelPass from json

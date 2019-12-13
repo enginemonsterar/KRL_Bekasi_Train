@@ -1,2048 +1,1676 @@
 {
     "Items": [
         {
+            "LogHistoryId": "",
             "Name": "Ganti Node",
-            "Value": "P1"
+            "Value": "P1",
+            "Day": 0,
+            "Month": 0,
+            "Year": 0,
+            "Hour": 0,
+            "Minute": 0,
+            "Second": 0
         },
         {
+            "LogHistoryId": "",
             "Name": "Ganti Node",
-            "Value": "P2"
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 16,
+            "Second": 12
         },
         {
+            "LogHistoryId": "",
             "Name": "Ganti Node",
-            "Value": "P3"
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 16,
+            "Second": 13
         },
         {
+            "LogHistoryId": "",
+            "Name": "Ganti Node",
+            "Value": "P3",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 16,
+            "Second": 13
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Ganti Node",
+            "Value": "P4",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 16,
+            "Second": 13
+        },
+        {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 16,
+            "Second": 14
         },
         {
+            "LogHistoryId": "",
+            "Name": "Ganti Node",
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 17,
+            "Second": 11
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Ganti Node",
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 17,
+            "Second": 12
+        },
+        {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 23
         },
         {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 23
         },
         {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 23
         },
         {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 24
         },
         {
+            "LogHistoryId": "",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 24
         },
         {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 25
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 31
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 38
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 38
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 38
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 38
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 39
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 39
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 54
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 54
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 27,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 28,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 28,
+            "Second": 25
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 28
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 28
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 30
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 30
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 30
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 30
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 31
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 31
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 31
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 30,
+            "Second": 31
+        },
+        {
+            "LogHistoryId": "travelPasses[0].LogHistoryId",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 32,
+            "Second": 1
+        },
+        {
+            "LogHistoryId": "travelPasses[0].LogHistoryId",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 32,
+            "Second": 1
+        },
+        {
+            "LogHistoryId": "travelPasses[0].LogHistoryId",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 32,
+            "Second": 9
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 57,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 57,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 57,
+            "Second": 24
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 59,
+            "Second": 22
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 59,
+            "Second": 22
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 59,
+            "Second": 23
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 14,
+            "Minute": 59,
+            "Second": 23
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 48
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 48
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 49
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 49
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 55
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 56
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 56
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 56
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 57
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 57
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 57
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 58
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 58
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P3",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 0,
+            "Second": 58
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 3
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 3
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 4
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 4
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 4
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 4
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 5
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 5
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 5
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P3",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 1,
+            "Second": 6
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 35
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 35
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 41
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 41
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Ganti Node",
+            "Value": "P2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 42
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 47
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 48
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 48
+        },
+        {
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 48
+        },
+        {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 50
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 50
         },
         {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 51
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 51
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 51
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 51
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 51
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn Pressed"
+            "Value": "Horn Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Horn UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 54
         },
         {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Opened"
-        },
-        {
-            "Name": "Door System",
-            "Value": "Door is Closed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "EM"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "EM"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "EM"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "EM"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "EM"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P1"
+            "Value": "P1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 55
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P2"
+            "Value": "N",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 55
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P3"
+            "Value": "B1",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 55
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Deadman System",
-            "Value": "Man Is Dead"
+            "Value": "B2",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 56
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P1"
+            "Value": "B3",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 56
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P2"
+            "Value": "B6",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 56
         },
         {
+            "LogHistoryId": "0",
             "Name": "Ganti Node",
-            "Value": "P3"
+            "Value": "EM",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 2,
+            "Second": 56
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B6"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 46
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 47
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 48
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 52
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 53
         },
         {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 53
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 53
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 53
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 3,
+            "Second": 59
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P3"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 17
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn Pressed"
-        },
-        {
-            "Name": "Horn System",
-            "Value": "Horn UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 18
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal Pressed"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Deadman Pedal UnPressed"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "N"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
-            "Name": "Ganti Node",
-            "Value": "B1"
-        },
-        {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "B3"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P1"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P2"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P3"
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
+            "LogHistoryId": "0",
             "Name": "Deadman System",
-            "Value": "Man Is Dead"
-        },
-        {
-            "Name": "Ganti Node",
-            "Value": "P4"
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P3"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P2"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P1"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 19
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P2"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal Pressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 20
         },
         {
-            "Name": "Ganti Node",
-            "Value": "P1"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Deadman Pedal UnPressed",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 20
         },
         {
-            "Name": "Ganti Node",
-            "Value": "N"
+            "LogHistoryId": "0",
+            "Name": "Deadman System",
+            "Value": "Man Is Dead",
+            "Day": 13,
+            "Month": 12,
+            "Year": 2019,
+            "Hour": 15,
+            "Minute": 5,
+            "Second": 26
         }
     ]
 }

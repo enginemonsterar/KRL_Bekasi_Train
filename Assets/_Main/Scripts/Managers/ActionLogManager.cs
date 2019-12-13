@@ -8,12 +8,15 @@ using System;
 public class ActionLogManager : Singleton<ActionLogManager>
 {
     private List<ActionLog> actionLogs;
+    private List<TravelPass> travelPasses;
     private string filePath;
+    private string filePathTravelPass;
     public void WriteActionLog(string name, string value){
             
         LoadData();
-        
-        ActionLog actionLog = new ActionLog(name, value, DateTime.Now);
+        LoadDataTravelPass();
+                
+        ActionLog actionLog = new ActionLog(travelPasses[0].LogHistoryId, name, value, DateTime.Now);
         
         //Add new ActionLog to list
         this.actionLogs.Add(actionLog);
@@ -26,6 +29,7 @@ public class ActionLogManager : Singleton<ActionLogManager>
     }
     void Awake(){
         filePath = Application.dataPath  + "/_Main" + "/Scripts" + "/JSON" + "/ActionLog.json";
+        filePathTravelPass = Application.dataPath  + "/_Main" + "/Scripts" + "/JSON" + "/TravelPass.json";
     }
 
     public void LoadData(){
@@ -35,5 +39,13 @@ public class ActionLogManager : Singleton<ActionLogManager>
         ActionLog[] actions_ = JsonHelper.FromJson<ActionLog>(jsonFile);   
         //Convert array to list
         actionLogs = new List<ActionLog>(actions_);
+    }
+    public void LoadDataTravelPass(){
+        //Read All TravelPass from json
+        string jsonFile = File.ReadAllText(filePathTravelPass);        
+        //Convert json object to TravelPass class object
+        TravelPass[] travelPasses_ = JsonHelper.FromJson<TravelPass>(jsonFile);   
+        //Convert array to list
+        travelPasses = new List<TravelPass>(travelPasses_);
     }
 }
