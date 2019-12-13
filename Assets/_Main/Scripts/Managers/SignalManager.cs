@@ -31,8 +31,7 @@ public class SignalManager : MonoBehaviour
         
         if(VideoSpeedManager.Instance.GetVideoTime() >= routeSignals[0].ActiveTimeInSeconds[signalOrder]){
             signImage.enabled = true;
-            signalActive = true;
-            Debug.Log("asdasda " + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName);
+            signalActive = true;            
             string path = "Sprites/" + FindSignal(routeSignals[0].SignalIds[signalOrder]).SpriteName;
             signImage.sprite = Resources.Load<Sprite>(path);            
         }

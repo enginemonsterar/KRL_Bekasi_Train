@@ -1999,6 +1999,50 @@
         {
             "Name": "Ganti Node",
             "Value": "B3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Deadman System",
+            "Value": "Man Is Dead"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P4"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P3"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P2"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "P1"
+        },
+        {
+            "Name": "Ganti Node",
+            "Value": "N"
         }
     ]
 }

@@ -485,8 +485,6 @@ MonoBehaviour:
   nameInputField: {fileID: 1148732571}
   passInputField: {fileID: 1713279895}
   netClient: {fileID: 2060957944}
-  adminClientPrefab: {fileID: 1130988427658699074, guid: 5efdd2fff00662640a1c8597dc42a2dc,
-    type: 3}
   playerClientPrefab: {fileID: 1130988427658699074, guid: 0f9d4f4d70ac60a43991ff6e2851bcf5,
     type: 3}
   networkContainer: {fileID: 1995144948}
